@@ -21,7 +21,7 @@ const ContactUs = ({ id, BgColor, headingColor, minHeight90vh }) => {
                     <span><Links href="https://goo.gl/maps/XNSqWmvazsCAbjqbA" target="_blank"> Aundh, Pune</Links></span>
                     <br /><br />
                     <i className="fa fa-phone icon" aria-hidden="true"></i>
-                    <span><Links href="tel:+91-8788906663" > +91-8788906663</Links></span>
+                    <span><Links href="tel:+91-8788906663" > 8788906663</Links></span>
                 </LinksWrapper>
                 <br />
                 <Form action="https://formspree.io/f/mrgowojv" method="POST">

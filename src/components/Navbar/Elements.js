@@ -14,7 +14,7 @@ export const NavContainer = styled.div`
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 
     @media screen and (max-width: 768px) {
-        background: #e6e5e5;
+        background: #8be547;
     }
 `
 

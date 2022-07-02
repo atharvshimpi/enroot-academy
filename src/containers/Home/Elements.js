@@ -235,7 +235,7 @@ export const Button = styled.button`
     transition: all 0.3s ease-in-out;
 
     &:hover {
-        background: #aeaeae;
+        background: #8be547;
         transform: translateY(-10%);
     }
 
